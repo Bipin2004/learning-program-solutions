@@ -1,0 +1,2 @@
+[13-07-2025 19:08:35] Simulated exception for testing
+[13-07-2025 20:46:45] Simulated exception for testing
